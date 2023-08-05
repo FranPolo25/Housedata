@@ -1,6 +1,8 @@
 # Housedata
 Proyecto House data análisis de datos 
 
+ El propósito es observar la tendencia que existen en las variables conforme aumenta el precio de la vivienda.
+
 Power Bi Proyect designed for Housedata database
 Online Visualization on: https://app.powerbi.com/reportEmbed?reportId=3f26fa92-f279-4bcb-9822-c536f8519460&autoAuth=true&ctid=92e84ceb-fbfd-47ab-be52-080c6b87953f
 Importación y uso de librerías como Pandas, Google Colab, Scikit Learn
